@@ -6,6 +6,6 @@ enter your username where is says username in userandpass.json as well as your p
 run the main.py file
 
 ## Commands
-exit: Exits the file
-bloodsugar: Gives you your bloodsugar
-time: Tells you the time
+exit: Exits the file;
+bloodsugar: Gives you your bloodsugar;
+time: Tells you the time;
